@@ -1,0 +1,9 @@
+---
+title: "PooPoo"
+format: html
+---
+
+```{r}
+install.packages("tidyverse")
+```
+
